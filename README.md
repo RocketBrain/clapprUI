@@ -13,7 +13,7 @@ $ npm run dev
 
 https://github.com/clappr/clappr
 
-#Description
+# Description
 
 A single page application using Vue.js that contains a small playlist of HLS videos with thumbnails to select and play with Clappr Media Player.
 
